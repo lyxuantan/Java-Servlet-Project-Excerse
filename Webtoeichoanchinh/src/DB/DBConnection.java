@@ -12,7 +12,7 @@ public class DBConnection
 		//String username = "root";
 		//String password = "1234";
 		
-		String url = "jdbc:mysql://mysql49261-tunglamdemojspservlet.jelastic.tsukaeru.net/toeicmyclass?useUnicode=true&amp;characterEncoding=utf8";
+		String url = "jdbc:mysql://localhost:3306/toeicmyclass?useUnicode=true&amp;characterEncoding=utf8";
 		String username = "root";
 		String password = "feWej3U70Z";
 		
